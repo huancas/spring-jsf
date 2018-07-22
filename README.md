@@ -1,2 +1,2 @@
-# spring-jsf
+# Calculadora con spring-jsf
 proyectos
